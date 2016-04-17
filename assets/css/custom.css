@@ -1,0 +1,20 @@
+#banner {
+    background-image: url("images/hub_street.jpg");
+    
+}
+
+.logo {
+    background-image: url("images/HUB-Logo.png");
+    background-repeat: no-repeat;
+}
+
+.image1 {
+   border-radius: 5px;
+   padding: 2.5em
+}
+
+.wrapper.spotlight.style1 {
+    padding: 10em;
+    background-color: #4c5c96;
+    
+}
